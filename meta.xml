@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Helii 3D</name>
+  <coder>BHSPitMonkey</coder>
+  <version>0.1</version>
+  <release_date>201103</release_date>
+  <short_description>Pilot a helicopter in style!</short_description>
+  <long_description>
+Controls:
+
+(A) Fly (Or start the level)
+(+) Pause (Or setup a new game after crashing)
+(Home) Exit to loader
+
+Todo:
+
+- Scores
+- Sound
+- Menus
+
+Changelog:
+
+0.1: Initial release
+</long_description>
+</app>
